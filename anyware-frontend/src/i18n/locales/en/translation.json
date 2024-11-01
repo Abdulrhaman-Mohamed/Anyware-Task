@@ -1,0 +1,27 @@
+{
+  "sign-in": " Sign In",
+  "welcome-to":"Welcome to",
+  "you-can-sign-up-from-here":"You can Sign Up from here",
+  "create-account":"Create Account",
+  "sign-up":"Sign Up",
+  "you-can-sign-in-from":"You can Sign In from",
+  "here":"here",
+  "username":"Username",
+  "password":"Password",
+  "email":"Email",
+  "you":"You",
+  "username-is-required":"Username is required",
+  "minimum-3-characters":"Minimum 3 characters",
+  "enter-your-username":"Enter your username",
+
+
+  "minimum-6-characters" : "Minimum 3 characters",
+  "maxmum-16-characters":"Maxmum 16 characters",
+  "password-pattern":"ur password should have least one uppercase letter ,one special character.",
+  "password-is-required":"Password is required",
+  "enter-your-password":"Enter your Password",
+  "email-is-required":"Email is required",
+  "email-validation": "Email isn't valid",
+  "enter-your-email":"Enter your Email",
+  "submit":"Submit"
+}
